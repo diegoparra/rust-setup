@@ -10,7 +10,8 @@
 				"rust-lang.rust-analyzer",
 				"vadimcn.vscode-lldb",
 				"GitHub.copilot-nightly",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"vscodevim.vim"
 			]
 		}
 	}
