@@ -10,4 +10,5 @@
 - Create a new user from there
 
 - Implement a `new` function to this struct
+  HINT: User::new()
 - Implement a `deactivate` function to this struct
