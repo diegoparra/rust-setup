@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "labs/*",
     "labs/file-reader",
     "labs/structured-data",
 ]

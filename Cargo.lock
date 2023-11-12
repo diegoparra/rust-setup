@@ -3,7 +3,15 @@
 version = 3
 
 [[package]]
+name = "enums-and-variants"
+version = "0.1.0"
+
+[[package]]
 name = "lab1"
+version = "0.1.0"
+
+[[package]]
+name = "strings-and-vectors"
 version = "0.1.0"
 
 [[package]]
