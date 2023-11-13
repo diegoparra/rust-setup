@@ -19,3 +19,6 @@
   - use the function `sum` to get the total area result
 
 - Print the total area calling the variable `total_area`
+
+
+## 
